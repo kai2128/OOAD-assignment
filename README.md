@@ -1,6 +1,8 @@
 <u>Table of Contents</u>
 
-[toc]
+- [Object Oriented Programming Approach Assignment](#object-oriented-programming-approach-assignment)
+  * [Built with](#built-with)
+  * [Screenshot](#screenshot)
 
 # Object Oriented Programming Approach Assignment
 
@@ -28,14 +30,22 @@ A simple employee management system that reads data from txt files with GUI inte
 ![menu](README/menu.png)
 Menu Page
 
+
+
 ![add_employee](README/add_employee.png)
 Add employee
+
+
 
 ![sort](README/sort.png)
 Sort Employee
 
+
+
 ![calculate](README/calculate.png)
 Calculate Salary
+
+
 
 ![modify](README/modify.png)
 Modify Employee Details
